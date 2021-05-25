@@ -1,6 +1,6 @@
 {
   "name": "chameleon-linting",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "./bin/chameleon-linter.js",
   "bin":{

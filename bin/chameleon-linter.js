@@ -5,7 +5,7 @@ const path = require('path');
 const readline = require('readline');
 
 const scanFiles = () => {
-    const directoryPath = path.join(__dirname, '..',);
+    const directoryPath = path.join(__dirname, '..','..', '..');
    
     fs.readdir(directoryPath, function (err, files) {
         if (err) {
