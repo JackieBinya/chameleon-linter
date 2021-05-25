@@ -2,7 +2,10 @@
   "name": "chameleon-linter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./bin/chameleon-linter.js",
+  "bin":{
+    "chameleon-linter": "./bin/chameleon-linter.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +15,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JackieBinya/chameleon-linter/issues"
   },
