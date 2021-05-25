@@ -14,7 +14,7 @@
     "url": "https://github.com/JackieBinya/chameleon-linter"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/chameleon-linter"
   },
   "keywords": [],
   "author": "",
