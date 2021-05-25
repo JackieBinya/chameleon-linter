@@ -11,14 +11,15 @@
         - All assignment operators must have spaces on either end.
 
 ## Installation 🧚🏾‍♀️
-### At the root of your project folder run the command:
+At the root of your project folder run the command:
 ```npm install chameleon-linting```
-if using *npm*, otherwise if using *yarn* use the command:
-```yard add chameleon-linting```
-### Run the command:
-```npx chameleon-linter```
-to scan and lint files in the root of ypur projects folder.
 
+If using *npm*, otherwise if using *yarn* use the command:
+```yard add chameleon-linting```
+
+## Let's get linting! 🕵️
+To scan and lint files at root of your project folder run the command:
+```npx chameleon-linter```
 
 Enjoy!!!
 
