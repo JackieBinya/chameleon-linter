@@ -1,5 +1,5 @@
 {
-  "name": "chameleon-linter",
+  "name": "chameleon-linting",
   "version": "1.0.0",
   "description": "",
   "main": "./bin/chameleon-linter.js",
@@ -12,9 +12,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/JackieBinya/chameleon-linter"
-  },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/chameleon-linter"
   },
   "keywords": [],
   "author": "",
